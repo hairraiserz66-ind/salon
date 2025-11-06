@@ -1,6 +1,6 @@
 import React from "react";
 import heroBg from "../assets/h.jpg";    
-import storeImg from "../assets/hair.webp"; 
+import storeImg from "../assets/Hair.webp"; 
 
 export default function AboutSection() {
   return (
